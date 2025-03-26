@@ -1,0 +1,9 @@
+کد رنگ ها:
+
+Yellow : ffbe00
+
+Black : 00000
+
+Gray (complementry): 181818
+
+Blue (high contrast): 0041ff
